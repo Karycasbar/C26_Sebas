@@ -1,1 +1,2 @@
-# C26_Sebas
+# PRO-C22
+estructura alámbrica para c22 
